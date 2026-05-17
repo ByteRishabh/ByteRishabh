@@ -1,26 +1,31 @@
+
 <h1 align="center">Hi 👋, I'm Rishabh Gupta</h1>
 
-<h3 align="center">
-Java Developer | DSA Enthusiast | Problem Solver
-</h3>
-
 <p align="center">
-Exploring Quantum Computing & AI 🚀
-</p>
-
-<p align="center">
-Code • Build • Innovate
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Java+Developer;DSA+Enthusiast;Quantum+Computing+Explorer;Problem+Solver+🚀" />
 </p>
 
 ---
 
 ## 🙋‍♂️ About Me
 
-- 💻 Java Developer passionate about problem solving
-- 📚 Regular DSA & LeetCode practitioner
-- ⚛️ Exploring Quantum Computing & AI
+- 🎓 B.Tech CSE <a href="https://www.galgotiasuniversity.edu.in/">@Galgotias University</a>
+- 💻 Java & DSA Developer
+- ⚛️ Learning Quantum Computing
+- 🏆 Winner of Ideathon 2023
 - 🚀 Preparing for Specialist Programmer Roles
+- 🌱 Exploring AI & Backend Development
 - 🌱 Learning Backend & System Design
+---
+
+## 🏆 Highlight Achievement
+
+<p align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=🥇+Ideathon+'23+Winner+🏆;Built+With+An+Amazing+Team+🚀)](https://git.io/typing-svg)
+
+</p>
+
 
 ---
 
@@ -72,15 +77,12 @@ Code • Build • Innovate
 
 ---
 
-## 🚀 Featured Projects
-
-- 📌 Java DSA Sheet
-- 📌 Quantum Computing Notes
-- 📌 DBMS & SQL Interview Questions
-- 📌 Web Technology Projects
-- 📌 AI Mental Health Chatbot
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/GuptaRishabh001?theme=dark&font=Nunito&ext=heatmap" />
+</p>
 
 ---
+
 
 <p align="center">
 ✨ Thanks for visiting my profile ✨
