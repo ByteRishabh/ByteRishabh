@@ -40,11 +40,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-
+  
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ByteRishabh&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ByteRishabh&theme=tokyonight&hide_border=true"/>
 
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ByteRishabh&theme=tokyonight" />
 </p>
 
 ---
@@ -76,6 +80,7 @@
 </p>
 
 ---
+
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/GuptaRishabh001?theme=dark&font=Nunito&ext=heatmap" />
